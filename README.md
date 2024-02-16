@@ -5,7 +5,7 @@
 <img src="https://marketplace.canva.com/EAE7yMgyqZQ/1/0/1600w/canva-banner-de-linkedin-sencillo-tecnolog%C3%ADa-jA8bSOvN_w0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandra-eyo&label=Profile%20views&color=0e75b6&style=flat" alt="sandra-eyo" /> </p>
-<p> [![GitHub followers](https://img.shields.io/github/followers/sandra-eyo?style=social)](https://github.com/sandra-eyo) </p>
+<p [![GitHub followers](https://img.shields.io/github/followers/sandra-eyo?style=social)](https://github.com/sandra-eyo)> </p>
 <p>
 <h3 align="left">🌱 Aprendizaje Continuo:</h3>
 
