@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">¡Hola! 👋 soy Sandra</h1>
-<h3 align="center">Soy una estudiante inexperta de programación (por ahora) y una apasionada de la tecnología. Aprendiendo y mejorando cada día un poquito más!</h3>
+<h3 align="center">Soy una estudiante inexperta de programación (por ahora) y una apasionada de la tecnología. Aprendiendo y mejorando cada pasito a pasito!</h3>
 </div>
 <img src="https://marketplace.canva.com/EAE7yMgyqZQ/1/0/1600w/canva-banner-de-linkedin-sencillo-tecnolog%C3%ADa-jA8bSOvN_w0.jpg">
 
