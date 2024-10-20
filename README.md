@@ -12,7 +12,7 @@ Soy una eterna aprendiz y estoy abierta a nuevas ideas y conocimientos.
 Actualmente estoy explorando java, php y java script.
 
 <h3 align="left">💻 Proyectos:</h3>
-🌱
+🌱 En proceso 🌱
 
 </p>
 <h3 align="left">Languages y herramientas:</h3>
